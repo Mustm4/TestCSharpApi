@@ -101,6 +101,7 @@ public class UtilsTest(Xlog Console)
         }
         return removedMockUsers;
     }
+}
 
 /*
     [Fact]
@@ -141,3 +142,4 @@ public class UtilsTest(Xlog Console)
         }
 
     }
+*/
